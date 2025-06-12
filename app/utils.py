@@ -2,7 +2,7 @@ import pandas as pd
 import pickle
 
 # Charger le modèle
-with open("../model/airbnb_price.pkl", "rb") as file:
+with open("airbnb_price.pkl", "rb") as file:
     model = pickle.load(file)
 
 def predict_price(inputs):
