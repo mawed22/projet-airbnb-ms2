@@ -1,0 +1,21 @@
+# Dictionnaire des images par ville
+city_images = {
+    "Paris": ["assets/image1.png", "assets/image2.png"],
+    "Bourse": ["assets/image3.png", "assets/image4.png"],
+    "Buttes-Chaumont": ["assets/image5.png", "assets/image6.png"],
+    "Buttes-Montmartre": ["assets/image7.png", "assets/image8.png"],
+    "Élysée": ["assets/image1.png", "assets/image2.png"],
+    "Gobelins": ["assets/image3.png", "assets/image4.png"],
+    "Hôtel-de-Ville": ["assets/image5.png", "assets/image6.png"],
+    "Louvre": ["assets/image7.png", "assets/image8.png"],
+    "Luxembourg": ["assets/image1.png", "assets/image2.png"],
+    "Ménilmontant": ["assets/image3.png", "assets/image4.png"],
+    "Opéra": ["assets/image5.png", "assets/image6.png"],
+    "Palais-Bourbon": ["assets/image7.png", "assets/image8.png"],
+    "Panthéon": ["assets/image1.png", "assets/image2.png"],
+    "Passy": ["assets/image3.png", "assets/image4.png"],
+    "Popincourt": ["assets/image5.png", "assets/image6.png"],
+    "Reuilly": ["assets/image7.png", "assets/image8.png"],
+    "Temple": ["assets/image5.png", "assets/image6.png"],
+    "Vaugirard": ["assets/image7.png", "assets/image8.png"],
+}
